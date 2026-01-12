@@ -14,7 +14,7 @@ import { Picker } from '@react-native-picker/picker';
 import DateTimePicker from '@react-native-community/datetimepicker';
 
 // ---------- Progress Circle UI ----------
-//dasdasdasdasdasdasdasdasdas
+
 const ProgressSteps = ({ currentStep = 2 }) => {
   const steps = ['Step 1', 'Step 2', 'Step 3', 'Review'];
 
