@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+
+    "scheme": "oseafood", 
+    "extra": {
+      "GOOGLE_VISION_KEY": "AIzaSyDfi3zjDKTo5AMWEtw6YTavn0mt_Lhk3rs",
+      "expoClientId": "YOUR_WEB_CLIENT_ID.apps.googleusercontent.com"
     }
   }
 }
